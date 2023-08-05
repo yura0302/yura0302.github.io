@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AWS-네트워크ACL(NetworkControlList,NACL)생성하기
+title: AWS-네트워크 ACL(Network Control List, NACL) 생성하기
 ---
 
 ![인바운드 규칙](/assets/images/inbound.png)

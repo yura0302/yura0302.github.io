@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AWS-보안그룹(SecurityGroup,SG)생성하기
+title: AWS-보안그룹(Security Group, SG)생성하기
 ---
 
 ![result](/assets/images/12345.png)
