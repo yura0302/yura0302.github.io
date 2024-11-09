@@ -45,3 +45,9 @@
 .imageDiv {
   margin-bottom: 80px;
 }
+
+.goHome {
+  width: 100px;
+  hieght: 100px;
+  cursor: pointer;
+}
