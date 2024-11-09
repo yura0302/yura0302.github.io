@@ -1,0 +1,47 @@
+.Container {
+  display: flex;
+  flex-direction: row;
+}
+
+.bgContainer {
+}
+
+.introContainer {
+  display: flex;
+  flex-direction: row;
+  margin: 0 auto;
+  margin-top: 150px;
+}
+
+.sectionDiv {
+  display: flex;
+  flex-direction: column;
+  margin-left: 30px;
+  margin: 0 auto;
+}
+
+.textDiv {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  hieght: 500px;
+  margin: 0 auto;
+  backgound-color: red;
+}
+
+.titleText {
+  font-size: 25px;
+  width: 400px;
+  hieght: 700px;
+}
+.subText {
+  font-size: 20px;
+  width: 300px;
+  hieght: 500px;
+  margin-top: 20px;
+  letter-spacing: 2px;
+}
+
+.imageDiv {
+  margin-bottom: 80px;
+}
